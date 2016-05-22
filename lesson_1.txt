@@ -1,3 +1,7 @@
 hello this is lesson 1
 
 body
+
+tail
+This is a tail section
+It is blue in colour
